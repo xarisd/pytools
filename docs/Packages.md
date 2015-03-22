@@ -51,11 +51,11 @@
 ## Resources
 
 * **Python Packaging User Guide**
-  * [https://packaging.python.org/en/latest/]
+  * https://packaging.python.org/en/latest/
 * **Pip**
-  * [https://pip.pypa.io]
+  * https://pip.pypa.io
 * **Python Package Index (PyPI)**
-  * [https://pypi.python.org/pypi]
+  * https://pypi.python.org/pypi
 
 
 
