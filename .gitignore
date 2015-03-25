@@ -5,3 +5,5 @@ __pycache__
 dist*
 build*
 
+*.sublime-project
+*.sublime-workspace
