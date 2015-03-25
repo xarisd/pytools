@@ -4,7 +4,7 @@
 * [Isolated virtual environments with `virtualenv`](docs/VirtualEnvironments.md)
 * [Checking your code with `Pylint`](docs/Codestyle.md)
 * [The Python Debugger (`PDB`)](docs/Debugging.md)
-* Documenting your code with `Sphinx`
+* [Documenting your code with `Sphinx`](docs/Documentation.md)
 * Packaging and Distributing your Project
 * [Editors and IDEs](docs/Editors.md)
 
