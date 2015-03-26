@@ -5,6 +5,6 @@
 * [Checking your code with `Pylint`](docs/Codestyle.md)
 * [The Python Debugger (`PDB`)](docs/Debugging.md)
 * [Documenting your code with `Sphinx`](docs/Documentation.md)
-* Packaging and Distributing your Project
+* [Packaging and Distributing](docs/Packaging.md) your Project
 * [Editors and IDEs](docs/Editors.md)
 
