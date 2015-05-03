@@ -7,11 +7,7 @@
 
 https://packagecontrol.io/search/Python
 
-* "Editors" and "IDEs" plugins
-  * Python 3 (language bundle)
-    * https://packagecontrol.io/packages/Python%203
-  * requirementstxt
-    * https://packagecontrol.io/packages/requirementstxt
+* "IDEs" plugins
   * SublimePythonIDE
     * https://packagecontrol.io/packages/SublimePythonIDE
     * Rewrite of [Sublime​Rope](https://packagecontrol.io/packages/SublimeRope)
@@ -19,12 +15,17 @@ https://packagecontrol.io/search/Python
     * https://packagecontrol.io/packages/Jedi%20-%20Python%20autocompletion
   * Anaconda
     * https://packagecontrol.io/packages/Anaconda
+* Editor helper plugins
+  * Py​Refactor
+    * https://packagecontrol.io/packages/PyRefactor
+  * requirementstxt
+    * https://packagecontrol.io/packages/requirementstxt
+  * Python 3 (language bundle)
+    * https://packagecontrol.io/packages/Python%203
   * SublimeAutoDocstring
     * https://packagecontrol.io/packages/AutoDocstring
   * PyDOC
     * https://packagecontrol.io/packages/PyDOC
-  * Py​Refactor
-    * https://packagecontrol.io/packages/PyRefactor
 * Linters and autoformaters plugins
   * Pylinter
     * https://packagecontrol.io/packages/Pylinter
