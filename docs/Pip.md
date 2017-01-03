@@ -71,10 +71,10 @@ You can specify specific packages that you need in a `requirements.txt`
   ```
 
   This command will:
-  * Save your project's dependencies in `requirements.txt`
+  * Save **currently installed packages** in `requirements.txt`
   * Including **correct versions**
 
-* You can install your project's dependencies using Pip
+* You can install your project's **development** dependencies using Pip
 
   ```
   pip install -r requirements.txt
@@ -83,3 +83,6 @@ You can specify specific packages that you need in a `requirements.txt`
   This will:
   * Install all packages listed in `requirements.txt`
 
+**Basically `requirements.txt` is a development time requirements list.**
+
+There is also a completely different mechanism where `pip` can determine the dependencies for a package at install time for an end user.
