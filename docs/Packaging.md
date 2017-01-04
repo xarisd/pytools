@@ -57,7 +57,7 @@ Resources
 ---------
 
 * **Setuptools Documentation**
-  * https://pythonhosted.org/setuptools/
+  * https://setuptools.readthedocs.io/en/latest/
 * **PyPA sample project**
   * https://github.com/pypa/sampleproject
 * **Python Packaging User Guide**
